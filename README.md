@@ -1,6 +1,7 @@
-# sfcrime
 
-# Spark, Spark SQL, DataFrame, Data Clean, Visualization, Clustering, Time Series.
+# SF crime data analysis and modeling
+
+- Spark, Spark SQL, DataFrame, Data Clean, Visualization, Clustering, Time Series.
 
 ## Goal:
 - With a background of people care about their safty more than ever. I am trying to understand crime happened in San Francisco in the past 16 years with more than 2 million instances.
