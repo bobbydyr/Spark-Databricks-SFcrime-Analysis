@@ -36,3 +36,4 @@
 - Step 7: Analysis of resolution rate over time for each category of crime.
 - Step 8: Simple spatial analysis with **Kmeans** clustering.
 - Step 9: Time Series: ARIMA prediction for the future month.
+
